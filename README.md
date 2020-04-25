@@ -1,4 +1,10 @@
 # hello-world
 The intended of README is to be read first. So, read me first.
 
-Change on master should not bere in the pull request commits
+** Continue updated
+
+*** Then more changes continue
+
+**** Change with 4 stars
+
+***** Finally, 5 stars
